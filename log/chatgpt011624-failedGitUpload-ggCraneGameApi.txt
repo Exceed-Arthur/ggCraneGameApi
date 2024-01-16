@@ -1,0 +1,505 @@
+Microsoft Windows [Version 10.0.22621.2861]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\arthu>cd source
+
+C:\Users\arthu\source>cd repos
+
+C:\Users\arthu\source\repos>cd ggCraneGameApi
+
+C:\Users\arthu\source\repos\ggCraneGameApi>dir /b /s
+C:\Users\arthu\source\repos\ggCraneGameApi\.gitignore
+C:\Users\arthu\source\repos\ggCraneGameApi\log
+C:\Users\arthu\source\repos\ggCraneGameApi\README.md
+C:\Users\arthu\source\repos\ggCraneGameApi\src
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\COMMIT_EDITMSG
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\config
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\description
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\HEAD
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\hooks
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\index
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\info
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\logs
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\refs
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\hooks\applypatch-msg.sample
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\hooks\commit-msg.sample
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\hooks\fsmonitor-watchman.sample
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\hooks\post-update.sample
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\hooks\pre-applypatch.sample
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\hooks\pre-commit.sample
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\hooks\pre-merge-commit.sample
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\hooks\pre-push.sample
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\hooks\pre-rebase.sample
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\hooks\pre-receive.sample
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\hooks\prepare-commit-msg.sample
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\hooks\push-to-checkout.sample
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\hooks\sendemail-validate.sample
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\hooks\update.sample
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\info\exclude
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\logs\HEAD
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\logs\refs
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\logs\refs\heads
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\logs\refs\heads\master
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\05
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\1d
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\2b
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\2c
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\67
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\6b
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\78
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\80
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\8f
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\96
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\9b
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\a9
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\ad
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\ae
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\b3
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\bd
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\be
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\c9
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\ca
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\dd
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\ed
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\info
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\pack
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\05\c1328e5bdee6a0b79b11e9737795e012d10a01
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\1d\4093e1121dffae3c07a577081fbc92682a9029
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\2b\44961d28f407a4bfc371f953ab4917cadabf35
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\2c\625a2d3d6ddf83e9460766c4e8d6e776045893
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\67\b309bd7912045187146b9b63cd64f05369cfff
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\6b\1ba99a17b21b6cf9adf1d68d82f7e38eb68635
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\78\34343859929ccdc50c1d3f5661031a208cc956
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\78\8c0daeb413b7736319535d20f9805bd689bac6
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\80\2c385dc051f022930eab471610bb012c27eb41
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\8f\f60dc3a59227c4f5bd4d9392f4fa33d1efa94e
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\96\4b9e279d7c09ffd2c36ba128646e647dcf211d
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\9b\4f0d98e272ac3811c21e84817d0296921b22e0
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\a9\61f77d46cd236dba972e8ee6c6575dfe93c8ba
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\ad\d24b899373cb711980da489ec4c89fbb66646d
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\ae\eeaf71bfca43875df29d3f3a8a068d274fe96e
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\b3\0195a931d53d2c7904110d2bf35f4849b7cd3c
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\b3\da4f6eb0baae44dab00e48bf0c1a134d5916d6
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\bd\c36479ae2f8027f9f77beb86c9441584251c97
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\be\7c8dbeb7878ff2cba8d69a263f69b120cf221d
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\c9\921f0c331ea2ad0a796724d48399f9f2558821
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\ca\dc8b0f5e3282c120150a756edf7c3a4b52320d
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\dd\32d68ac0008aedeed8ee813108822f3665cb88
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\ed\4997f4050e4e116465b1484c2813364ec4186a
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\refs\heads
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\refs\tags
+C:\Users\arthu\source\repos\ggCraneGameApi\.git\refs\heads\master
+C:\Users\arthu\source\repos\ggCraneGameApi\log\chatgpt002.txt
+C:\Users\arthu\source\repos\ggCraneGameApi\log\chatgpt003.txt
+C:\Users\arthu\source\repos\ggCraneGameApi\log\chatgpt011620240.txt
+C:\Users\arthu\source\repos\ggCraneGameApi\log\chatgpt011620240_dir-b.txt
+C:\Users\arthu\source\repos\ggCraneGameApi\log\chatgpt011620240_dir-s.txt
+C:\Users\arthu\source\repos\ggCraneGameApi\log\chatgpt012624-gitpush-u-origin-main.txt
+C:\Users\arthu\source\repos\ggCraneGameApi\log\gpt004.txt
+C:\Users\arthu\source\repos\ggCraneGameApi\log\script_execution.log
+C:\Users\arthu\source\repos\ggCraneGameApi\src\main
+C:\Users\arthu\source\repos\ggCraneGameApi\src\test
+C:\Users\arthu\source\repos\ggCraneGameApi\src\main\java
+C:\Users\arthu\source\repos\ggCraneGameApi\src\main\resources
+C:\Users\arthu\source\repos\ggCraneGameApi\src\main\java\com.gamersupps
+C:\Users\arthu\source\repos\ggCraneGameApi\src\main\java\com.gamersupps\model
+C:\Users\arthu\source\repos\ggCraneGameApi\src\main\java\com.gamersupps\service
+C:\Users\arthu\source\repos\ggCraneGameApi\src\main\java\com.gamersupps\model\GameResponse.java
+C:\Users\arthu\source\repos\ggCraneGameApi\src\main\java\com.gamersupps\model\PlayerEligibility.java
+C:\Users\arthu\source\repos\ggCraneGameApi\src\main\java\com.gamersupps\model\Prize.java
+C:\Users\arthu\source\repos\ggCraneGameApi\src\main\java\com.gamersupps\service\ShopifyService.java
+C:\Users\arthu\source\repos\ggCraneGameApi\src\test\java
+C:\Users\arthu\source\repos\ggCraneGameApi\src\test\java\com.gamersupps
+
+C:\Users\arthu\source\repos\ggCraneGameApi>dir /s
+ Volume in drive C is OS
+ Volume Serial Number is BCE2-84C3
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi
+
+01/16/2024  10:26 AM    <DIR>          .
+01/12/2024  03:39 PM    <DIR>          ..
+01/16/2024  09:58 AM               762 .gitignore
+01/16/2024  10:22 AM    <DIR>          log
+01/16/2024  10:25 AM             1,699 README.md
+01/12/2024  03:43 PM    <DIR>          src
+               2 File(s)          2,461 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git
+
+01/16/2024  10:26 AM    <DIR>          ..
+01/16/2024  09:58 AM                38 COMMIT_EDITMSG
+01/16/2024  10:21 AM               252 config
+01/16/2024  09:45 AM                73 description
+01/16/2024  09:45 AM                23 HEAD
+01/16/2024  09:45 AM    <DIR>          hooks
+01/16/2024  09:58 AM             1,457 index
+01/16/2024  09:45 AM    <DIR>          info
+01/16/2024  09:45 AM    <DIR>          logs
+01/16/2024  09:58 AM    <DIR>          objects
+01/16/2024  09:45 AM    <DIR>          refs
+               5 File(s)          1,843 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\hooks
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:45 AM               478 applypatch-msg.sample
+01/16/2024  09:45 AM               896 commit-msg.sample
+01/16/2024  09:45 AM             4,726 fsmonitor-watchman.sample
+01/16/2024  09:45 AM               189 post-update.sample
+01/16/2024  09:45 AM               424 pre-applypatch.sample
+01/16/2024  09:45 AM             1,643 pre-commit.sample
+01/16/2024  09:45 AM               416 pre-merge-commit.sample
+01/16/2024  09:45 AM             1,374 pre-push.sample
+01/16/2024  09:45 AM             4,898 pre-rebase.sample
+01/16/2024  09:45 AM               544 pre-receive.sample
+01/16/2024  09:45 AM             1,492 prepare-commit-msg.sample
+01/16/2024  09:45 AM             2,783 push-to-checkout.sample
+01/16/2024  09:45 AM             2,308 sendemail-validate.sample
+01/16/2024  09:45 AM             3,650 update.sample
+              14 File(s)         25,821 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\info
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:45 AM               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\logs
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM               395 HEAD
+01/16/2024  09:45 AM    <DIR>          refs
+               1 File(s)            395 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\logs\refs
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:45 AM    <DIR>          ..
+01/16/2024  09:45 AM    <DIR>          heads
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\logs\refs\heads
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:45 AM    <DIR>          ..
+01/16/2024  09:58 AM               395 master
+               1 File(s)            395 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects
+
+01/16/2024  09:58 AM    <DIR>          .
+01/16/2024  09:45 AM    <DIR>          05
+01/16/2024  09:45 AM    <DIR>          1d
+01/16/2024  09:45 AM    <DIR>          2b
+01/16/2024  09:58 AM    <DIR>          2c
+01/16/2024  09:45 AM    <DIR>          67
+01/16/2024  09:45 AM    <DIR>          6b
+01/16/2024  09:45 AM    <DIR>          78
+01/16/2024  09:58 AM    <DIR>          80
+01/16/2024  09:45 AM    <DIR>          8f
+01/16/2024  09:45 AM    <DIR>          96
+01/16/2024  09:45 AM    <DIR>          9b
+01/16/2024  09:45 AM    <DIR>          a9
+01/16/2024  09:45 AM    <DIR>          ad
+01/16/2024  09:45 AM    <DIR>          ae
+01/16/2024  09:45 AM    <DIR>          b3
+01/16/2024  09:58 AM    <DIR>          bd
+01/16/2024  09:45 AM    <DIR>          be
+01/16/2024  09:45 AM    <DIR>          c9
+01/16/2024  09:45 AM    <DIR>          ca
+01/16/2024  09:45 AM    <DIR>          dd
+01/16/2024  09:45 AM    <DIR>          ed
+01/16/2024  09:45 AM    <DIR>          info
+01/16/2024  09:45 AM    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\05
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:45 AM               471 c1328e5bdee6a0b79b11e9737795e012d10a01
+               1 File(s)            471 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\1d
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:45 AM                72 4093e1121dffae3c07a577081fbc92682a9029
+               1 File(s)             72 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\2b
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:45 AM                46 44961d28f407a4bfc371f953ab4917cadabf35
+               1 File(s)             46 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\2c
+
+01/16/2024  09:58 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:58 AM               425 625a2d3d6ddf83e9460766c4e8d6e776045893
+               1 File(s)            425 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\67
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:45 AM               251 b309bd7912045187146b9b63cd64f05369cfff
+               1 File(s)            251 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\6b
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:45 AM               161 1ba99a17b21b6cf9adf1d68d82f7e38eb68635
+               1 File(s)            161 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\78
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:45 AM               322 34343859929ccdc50c1d3f5661031a208cc956
+01/16/2024  09:45 AM               659 8c0daeb413b7736319535d20f9805bd689bac6
+               2 File(s)            981 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\80
+
+01/16/2024  09:58 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:58 AM               111 2c385dc051f022930eab471610bb012c27eb41
+               1 File(s)            111 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\8f
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:45 AM               676 f60dc3a59227c4f5bd4d9392f4fa33d1efa94e
+               1 File(s)            676 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\96
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:45 AM                99 4b9e279d7c09ffd2c36ba128646e647dcf211d
+               1 File(s)             99 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\9b
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:45 AM                46 4f0d98e272ac3811c21e84817d0296921b22e0
+               1 File(s)             46 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\a9
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:45 AM               163 61f77d46cd236dba972e8ee6c6575dfe93c8ba
+               1 File(s)            163 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\ad
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:45 AM               576 d24b899373cb711980da489ec4c89fbb66646d
+               1 File(s)            576 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\ae
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:45 AM               340 eeaf71bfca43875df29d3f3a8a068d274fe96e
+               1 File(s)            340 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\b3
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:45 AM                64 0195a931d53d2c7904110d2bf35f4849b7cd3c
+01/16/2024  09:45 AM                56 da4f6eb0baae44dab00e48bf0c1a134d5916d6
+               2 File(s)            120 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\bd
+
+01/16/2024  09:58 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:58 AM               185 c36479ae2f8027f9f77beb86c9441584251c97
+               1 File(s)            185 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\be
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:45 AM               746 7c8dbeb7878ff2cba8d69a263f69b120cf221d
+               1 File(s)            746 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\c9
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:45 AM               365 921f0c331ea2ad0a796724d48399f9f2558821
+               1 File(s)            365 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\ca
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:45 AM                78 dc8b0f5e3282c120150a756edf7c3a4b52320d
+               1 File(s)             78 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\dd
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:45 AM               631 32d68ac0008aedeed8ee813108822f3665cb88
+               1 File(s)            631 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\ed
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+01/16/2024  09:45 AM               132 4997f4050e4e116465b1484c2813364ec4186a
+               1 File(s)            132 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\info
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\objects\pack
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\refs
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:58 AM    <DIR>          heads
+01/16/2024  09:45 AM    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\refs\heads
+
+01/16/2024  09:58 AM    <DIR>          .
+01/16/2024  09:45 AM    <DIR>          ..
+01/16/2024  09:58 AM                41 master
+               1 File(s)             41 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\.git\refs\tags
+
+01/16/2024  09:45 AM    <DIR>          .
+01/16/2024  09:45 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\log
+
+01/16/2024  10:22 AM    <DIR>          .
+01/16/2024  10:26 AM    <DIR>          ..
+01/12/2024  05:16 PM             3,349 chatgpt002.txt
+01/15/2024  05:02 PM             6,808 chatgpt003.txt
+01/16/2024  09:23 AM             3,571 chatgpt011620240.txt
+01/16/2024  10:01 AM                50 chatgpt011620240_dir-b.txt
+01/16/2024  10:05 AM            15,225 chatgpt011620240_dir-s.txt
+01/16/2024  10:22 AM             5,886 chatgpt012624-gitpush-u-origin-main.txt
+01/15/2024  05:16 PM             3,510 gpt004.txt
+01/12/2024  03:39 PM               282 script_execution.log
+               8 File(s)         38,681 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\src
+
+01/12/2024  03:43 PM    <DIR>          .
+01/16/2024  10:26 AM    <DIR>          ..
+01/12/2024  03:43 PM    <DIR>          main
+01/12/2024  03:43 PM    <DIR>          test
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\src\main
+
+01/12/2024  03:43 PM    <DIR>          .
+01/12/2024  03:43 PM    <DIR>          ..
+01/12/2024  03:43 PM    <DIR>          java
+01/12/2024  03:43 PM    <DIR>          resources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\src\main\java
+
+01/12/2024  03:43 PM    <DIR>          .
+01/12/2024  03:43 PM    <DIR>          ..
+01/12/2024  03:43 PM    <DIR>          com.gamersupps
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\src\main\java\com.gamersupps
+
+01/12/2024  03:43 PM    <DIR>          .
+01/12/2024  03:43 PM    <DIR>          ..
+01/12/2024  03:49 PM    <DIR>          model
+01/12/2024  03:49 PM    <DIR>          service
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\src\main\java\com.gamersupps\model
+
+01/12/2024  03:49 PM    <DIR>          .
+01/12/2024  03:43 PM    <DIR>          ..
+01/12/2024  03:48 PM               943 GameResponse.java
+01/12/2024  03:49 PM               805 PlayerEligibility.java
+01/12/2024  03:48 PM               977 Prize.java
+               3 File(s)          2,725 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\src\main\java\com.gamersupps\service
+
+01/12/2024  03:49 PM    <DIR>          .
+01/12/2024  03:43 PM    <DIR>          ..
+01/12/2024  03:49 PM             1,196 ShopifyService.java
+               1 File(s)          1,196 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\src\main\resources
+
+01/12/2024  03:43 PM    <DIR>          .
+01/12/2024  03:43 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\src\test
+
+01/12/2024  03:43 PM    <DIR>          .
+01/12/2024  03:43 PM    <DIR>          ..
+01/12/2024  03:43 PM    <DIR>          java
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\src\test\java
+
+01/12/2024  03:43 PM    <DIR>          .
+01/12/2024  03:43 PM    <DIR>          ..
+01/12/2024  03:43 PM    <DIR>          com.gamersupps
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\src\test\java\com.gamersupps
+
+01/12/2024  03:43 PM    <DIR>          .
+01/12/2024  03:43 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+              60 File(s)         80,473 bytes
+             127 Dir(s)  271,359,107,072 bytes free
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git remote -v
+origin  https://github.com/Exceed-Arthur/ggCraneGameApi.git (fetch)
+origin  https://github.com/Exceed-Arthur/ggCraneGameApi.git (push)
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Exceed-Arthur/ggCraneGameApi.git'
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git push -u origin master
+Username for 'https://github.com': arthur@itoven-ai.co
+Password for 'https://arthur@itoven-ai.co@github.com':
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/Exceed-Arthur/ggCraneGameApi.git/'
+
+C:\Users\arthu\source\repos\ggCraneGameApi>

@@ -1,0 +1,4 @@
+.gitignore
+chatgpt011620240_dir-b.txt
+log
+src

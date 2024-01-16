@@ -1,0 +1,147 @@
+Microsoft Windows [Version 10.0.22621.2861]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\arthu>cd source
+
+C:\Users\arthu\source>cd repos
+
+C:\Users\arthu\source\repos>cd ggCraneGameApi
+
+C:\Users\arthu\source\repos\ggCraneGameApi>dir /b > chatgpt011620240.txt
+
+C:\Users\arthu\source\repos\ggCraneGameApi>dir /s > chatgpt011620240.txt
+
+C:\Users\arthu\source\repos\ggCraneGameApi>dir /s > chatgpt011620240_dir-s.txt
+
+C:\Users\arthu\source\repos\ggCraneGameApi>dir /b > chatgpt011620240_dir-b.txt
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git init
+Initialized empty Git repository in C:/Users/arthu/source/repos/ggCraneGameApi/.git/
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git add .
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git commit -m "Initial Commit for CraneGame and Prize Generator API"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'arthu@GalacticSoup.(none)')
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git config --global user.email "arthur@itoven-ai.co"
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git config --global user.name "arthurLeeMartinez"
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git commit -m "Initial Commit for CraneGame and Prize Generator API"
+[master (root-commit) 8791664] Initial Commit for CraneGame and Prize Generator API
+ 12 files changed, 699 insertions(+)
+ create mode 100644 chatgpt002.txt
+ create mode 100644 chatgpt003.txt
+ create mode 100644 chatgpt011620240.txt
+ create mode 100644 chatgpt011620240_dir-b.txt
+ create mode 100644 chatgpt011620240_dir-s.txt
+ create mode 100644 gpt004.txt
+ create mode 100644 gpthelper2.bat
+ create mode 100644 script_execution.log
+ create mode 100644 src/main/java/com.gamersupps/model/GameResponse.java
+ create mode 100644 src/main/java/com.gamersupps/model/PlayerEligibility.java
+ create mode 100644 src/main/java/com.gamersupps/model/Prize.java
+ create mode 100644 src/main/java/com.gamersupps/service/ShopifyService.java
+
+C:\Users\arthu\source\repos\ggCraneGameApi>mkdir log
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git remove .
+git: 'remove' is not a git command. See 'git --help'.
+
+The most similar command is
+        remote
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git add .
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git init ggCraneGameApi
+Initialized empty Git repository in C:/Users/arthu/source/repos/ggCraneGameApi/ggCraneGameApi/.git/
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git add .
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git init
+Initialized empty Git repository in C:/Users/arthu/source/repos/ggCraneGameApi/.git/
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git add .
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git commit -m "Initial Commit for CraneGame and Prize Generator API"
+[master (root-commit) a961f77] Initial Commit for CraneGame and Prize Generator API
+ 11 files changed, 692 insertions(+)
+ create mode 100644 log/chatgpt002.txt
+ create mode 100644 log/chatgpt003.txt
+ create mode 100644 log/chatgpt011620240.txt
+ create mode 100644 log/chatgpt011620240_dir-b.txt
+ create mode 100644 log/chatgpt011620240_dir-s.txt
+ create mode 100644 log/gpt004.txt
+ create mode 100644 log/script_execution.log
+ create mode 100644 src/main/java/com.gamersupps/model/GameResponse.java
+ create mode 100644 src/main/java/com.gamersupps/model/PlayerEligibility.java
+ create mode 100644 src/main/java/com.gamersupps/model/Prize.java
+ create mode 100644 src/main/java/com.gamersupps/service/ShopifyService.java
+
+C:\Users\arthu\source\repos\ggCraneGameApi>edit ,gitignore
+'edit' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\arthu\source\repos\ggCraneGameApi>type nul > .gitignore
+
+C:\Users\arthu\source\repos\ggCraneGameApi>notepad .gitignore
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git add .gitignore
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git commit -m "Update gitignore for Maven and Gradle"
+[master bdc3647] Update gitignore for Maven and Gradle
+ 1 file changed, 60 insertions(+)
+ create mode 100644 .gitignore
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git push
+fatal: No configured push destination.
+Either specify the URL from the command-line or configure a remote repository using
+
+    git remote add <name> <url>
+
+and then push using the remote name
+
+    git push <name>
+
+
+C:\Users\arthu\source\repos\ggCraneGameApi>dir /b > chatgpt011620240_dir-b.txt
+
+C:\Users\arthu\source\repos\ggCraneGameApi>dir /s > chatgpt011620240_dir-s.txt
+
+C:\Users\arthu\source\repos\ggCraneGameApi>cd log
+
+C:\Users\arthu\source\repos\ggCraneGameApi\log>dir /s > chatgpt011620240_dir-s.txt
+
+C:\Users\arthu\source\repos\ggCraneGameApi\log>dir /b > chatgpt011620240_dir-b.txt
+
+C:\Users\arthu\source\repos\ggCraneGameApi\log>cd ..
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git remote -v
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git remote add origin https://github.com/Exceed-Arthur/ggCraneGameApi.git
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git remote -v
+origin  https://github.com/Exceed-Arthur/ggCraneGameApi.git (fetch)
+origin  https://github.com/Exceed-Arthur/ggCraneGameApi.git (push)
+
+C:\Users\arthu\source\repos\ggCraneGameApi>git push - u origin main
+error: src refspec u does not match any
+error: src refspec origin does not match any
+error: src refspec main does not match any
+error: failed to push some refs to '-'
+
+C:\Users\arthu\source\repos\ggCraneGameApi>

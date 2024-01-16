@@ -1,0 +1,92 @@
+ Volume in drive C is OS
+ Volume Serial Number is BCE2-84C3
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi
+
+01/16/2024  09:23 AM    <DIR>          .
+01/12/2024  03:39 PM    <DIR>          ..
+01/12/2024  05:16 PM             3,349 chatgpt002.txt
+01/15/2024  05:02 PM             6,808 chatgpt003.txt
+01/16/2024  09:23 AM                 0 chatgpt011620240.txt
+01/15/2024  05:16 PM             3,510 gpt004.txt
+01/15/2024  05:16 PM               217 gpthelper2.bat
+01/12/2024  03:39 PM               282 script_execution.log
+01/12/2024  03:43 PM    <DIR>          src
+               6 File(s)         14,166 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\src
+
+01/12/2024  03:43 PM    <DIR>          .
+01/16/2024  09:23 AM    <DIR>          ..
+01/12/2024  03:43 PM    <DIR>          main
+01/12/2024  03:43 PM    <DIR>          test
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\src\main
+
+01/12/2024  03:43 PM    <DIR>          .
+01/12/2024  03:43 PM    <DIR>          ..
+01/12/2024  03:43 PM    <DIR>          java
+01/12/2024  03:43 PM    <DIR>          resources
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\src\main\java
+
+01/12/2024  03:43 PM    <DIR>          .
+01/12/2024  03:43 PM    <DIR>          ..
+01/12/2024  03:43 PM    <DIR>          com.gamersupps
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\src\main\java\com.gamersupps
+
+01/12/2024  03:43 PM    <DIR>          .
+01/12/2024  03:43 PM    <DIR>          ..
+01/12/2024  03:49 PM    <DIR>          model
+01/12/2024  03:49 PM    <DIR>          service
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\src\main\java\com.gamersupps\model
+
+01/12/2024  03:49 PM    <DIR>          .
+01/12/2024  03:43 PM    <DIR>          ..
+01/12/2024  03:48 PM               943 GameResponse.java
+01/12/2024  03:49 PM               805 PlayerEligibility.java
+01/12/2024  03:48 PM               977 Prize.java
+               3 File(s)          2,725 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\src\main\java\com.gamersupps\service
+
+01/12/2024  03:49 PM    <DIR>          .
+01/12/2024  03:43 PM    <DIR>          ..
+01/12/2024  03:49 PM             1,196 ShopifyService.java
+               1 File(s)          1,196 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\src\main\resources
+
+01/12/2024  03:43 PM    <DIR>          .
+01/12/2024  03:43 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\src\test
+
+01/12/2024  03:43 PM    <DIR>          .
+01/12/2024  03:43 PM    <DIR>          ..
+01/12/2024  03:43 PM    <DIR>          java
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\src\test\java
+
+01/12/2024  03:43 PM    <DIR>          .
+01/12/2024  03:43 PM    <DIR>          ..
+01/12/2024  03:43 PM    <DIR>          com.gamersupps
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\arthu\source\repos\ggCraneGameApi\src\test\java\com.gamersupps
+
+01/12/2024  03:43 PM    <DIR>          .
+01/12/2024  03:43 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+              10 File(s)         18,087 bytes
+              32 Dir(s)  271,453,876,224 bytes free
